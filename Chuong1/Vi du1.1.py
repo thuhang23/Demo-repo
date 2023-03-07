@@ -4,4 +4,4 @@ c=int(input("c="))
 max=a
 if(max<b): max=b
 if(max<c): max=c
-print("so lon nhat:",max)
+ print("so lon nhat:",max)
